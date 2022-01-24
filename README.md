@@ -1,6 +1,8 @@
 # Dessert-Tale
 Unity Project 2D platform game
 
+![alt text](https://github.com/liyanayazid/Dessert-Tale/blob/main/Level%20Preview.png?raw=true)
+
 The Dessert Tale is a slide and vertical scrolling platformers. Side and vertical scrolling platform games can be identified by its scrolling game screen and background that 
 moves along as the player moves towards one edge of the game screen.
 
